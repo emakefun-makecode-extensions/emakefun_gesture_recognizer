@@ -1,0 +1,6 @@
+{
+  "emakefun.GestureRecognizer.gestureRecognized": "查询是否识别到指定手势",
+  "emakefun.GestureRecognizer.recognize": "进行手势识别",
+  "emakefun.createGestureRecognizer": "创建手势识别传感器实例",
+  "emakefun.createGestureRecognizer|param|i2c_address": "手势识别传感器I2C地址,默认为: 0x39(十进制为57)"
+}

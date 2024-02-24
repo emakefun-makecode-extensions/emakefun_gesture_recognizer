@@ -1,0 +1,17 @@
+{
+  "emakefun.GestureRecognizer.gestureRecognized|block": "$this 识别到 $gesture",
+  "emakefun.GestureRecognizer.recognize|block": "$this 识别手势",
+  "emakefun.GestureType.GestureBackwardSwipe|block": "后滑",
+  "emakefun.GestureType.GesturePushDown|block": "下压",
+  "emakefun.GestureType.GestureForwardSwipe|block": "前滑",
+  "emakefun.GestureType.GestureHover|block": "悬停",
+  "emakefun.GestureType.GestureLeftSwipe|block": "左滑",
+  "emakefun.GestureType.GestureNone|block": "无",
+  "emakefun.GestureType.GestureLeave|block": "离开",
+  "emakefun.GestureType.GestureRightSwipe|block": "右滑",
+  "emakefun.GestureType.GesturePullUp|block": "上拉",
+  "emakefun.createGestureRecognizer|block": "创建手势识别传感器实例, I2C地址为 $i2c_address",
+  "emakefun|block": "Emakefun",
+  "{id:category}Emakefun": "Emakefun",
+  "{id:subcategory}GestureRecognizer": "手势识别传感器"
+}
