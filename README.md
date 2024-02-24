@@ -8,7 +8,7 @@
 
 ### Show Gesture
 
-You can copy the code from below or view the project (blocks and JavaScript view) [here]().
+You can copy the code from below or view the project (blocks and JavaScript view) [here](https://makecode.microbit.org/_XDE97wd6Je2b).
 
 ```block
 let gesture_recognizer = emakefun.createGestureRecognizer(57)
